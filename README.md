@@ -9,5 +9,5 @@
 
 - :smiley: Me gustan los desafios, y aprender cosas nuevas 
 
-- :+1: Tecnologias que manejo : HTML5, CSS (Sass), Javascript, Jquery, React js
+- :+1: Tecnologias que manejo : HTML5, CSS (Sass), Javascript => Jquery  , React js
 
