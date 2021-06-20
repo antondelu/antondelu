@@ -1,7 +1,7 @@
 ### HOLA 👋
 ###  Bienvenidos 
 
- <img className="https://media.giphy.com/media/LPgFwCQg4HQBvPihcn/giphy.gif" />
+ <img className="../giphy-unscreen" />
 - ✨Soy desarrollador Front End
 
 - 🔭 Estoy buscando mi primer experiencia como Desarrollador Junior
