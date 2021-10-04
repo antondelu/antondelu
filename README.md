@@ -8,9 +8,9 @@
 
 - :+1: Tecnologias : HTML5, CSS (Sass), Javascript => Jquery  , React js
 
-Linkedin : https://www.linkedin.com/in/marcodeluca-dw/
+- Linkedin : https://www.linkedin.com/in/marcodeluca-dw/
 
-Mail : Marcoanton.deluca@gmail.com
+-  Mail : Marcoanton.deluca@gmail.com
 
 
 <p align="left">
