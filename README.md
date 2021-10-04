@@ -8,6 +8,9 @@
 
 - :+1: Tecnologias : HTML5, CSS (Sass), Javascript => Jquery  , React js
 
+Linkedin : https://www.linkedin.com/in/marcodeluca-dw/
+Mail : Marcoanton.deluca@gmail.com
+
 
 <p align="left">
   <a href="https://github.com/antondelu"><img width="400" src="https://github-readme-stats.vercel.app/api?username=antondelu&show_icons=true&theme=react">
