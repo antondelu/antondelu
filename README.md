@@ -2,11 +2,11 @@
 ###  Bienvenidos 
 
 
-- ✨Soy desarrollador Front End
+- ✨Soy desarrollador Full Stack
 
 - :smiley: Me gustan los desafios, y aprender cosas nuevas 
 
-- :+1: Tecnologias : HTML5, CSS (Sass), Javascript => Jquery  , React js
+- :+1: Tecnologias : HTML5, CSS (Sass), Javascript/ React js, Node.js, SQL, MongoDB, Git
 
 - :postbox: Linkedin : https://www.linkedin.com/in/marcodeluca-dw/
 
