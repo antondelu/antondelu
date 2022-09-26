@@ -18,7 +18,7 @@
   <a href="https://github.com/antondelu"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antondelu&langs_count=10&layout=compact&theme=react">
 </p>
     
-## My repos
+## Proyectos principales
     
 <p align="left">
   
