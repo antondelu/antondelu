@@ -22,9 +22,14 @@
     
 <p align="left">
   
-   <a href="https://github.com/antondelu/Tienda-on-line"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=antondelu&repo=Tienda-on-line&langs_count=5&theme=react">
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antondelu&repo=ecommerce-floors-back&theme=react)](https://github.com/antondelu/ecommerce-floors-back.git)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antondelu&repo=ecommerce-floors-front&theme=react)](https://github.com/antondelu/ecommerce-floors-front.git)
+  [![HackFlix](https://github-readme-stats.vercel.app/api/pin/?username=antondelu&repo=hackflix&theme=react&langs_count=15)](https://github.com/antondelu/hackflix.git)
   <a href="https://github.com/antondelu/Ecommerce"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=antondelu&card_height=300&&repo=Ecommerce&langs_count=5&layout=compact&theme=react">
-  <a href="https://github.com/antondelu/VibraDivina"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=antondelu&repo=VibraDivina&layout=compact&theme=react">
-  <a href="https://github.com/antondelu/geolocalizacion"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=antondelu&repo=geolocalizacion&hide=html,scss,css&langs_count=10&layout=compact&theme=react">
+  
+  
+
+  
+ 
 </p>  
 
